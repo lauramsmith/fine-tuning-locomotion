@@ -5,7 +5,7 @@ Official codebase for [Legged Robots that Keep on Learning: Fine-Tuning Locomoti
 
 <p align="center">
    <a href="https://youtu.be/1EUQD7nYfLM">
-        <img src="https://github.com/priority-kew/safe_outdoor/blob/release/motion_imitation/data/park_pacing.gif" alt="animated" />
+        <img src="https://github.com/lauramsmith/fine-tuning-locomotion/blob/main/motion_imitation/data/park_pacing.gif" alt="animated" />
    </a>
 </p>
 
