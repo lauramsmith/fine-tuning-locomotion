@@ -1,7 +1,7 @@
 # Legged  Robots  that  Keep  on  Learning
 
 
-Official codebase for [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://youtu.be/1EUQD7nYfLM), which contains code for training a simulated or real A1 quadrupedal robot to imitate various reference motions, pre-trained policies, and example training code for learning the policies.
+Official codebase for [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://arxiv.org/abs/2110.05457), which contains code for training a simulated or real A1 quadrupedal robot to imitate various reference motions, pre-trained policies, and example training code for learning the policies.
 
 <p align="center">
    <a href="https://youtu.be/1EUQD7nYfLM">
